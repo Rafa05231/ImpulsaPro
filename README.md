@@ -40,7 +40,7 @@ impulsa_pro/
 │
 ├── impulsa_pro/          # Carpeta principal del proyecto
 │   ├── accounts/         # App para gestión de usuarios y autenticación
-│   ├── core/             # App núcleo (configuración base, utilidades generales)
+│   ├── core/             # App núcleo: datos maestros compartidos (universidades, empresas, sectores, programas, módulos)
 │   ├── impulsa_pro/      # Configuración principal de Django (settings, urls, wsgi, asgi)
 │   ├── practicas/        # App del módulo de prácticas empresariales
 │   ├── .gitignore        # Archivos y carpetas ignoradas en Git
